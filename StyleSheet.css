@@ -1,0 +1,57 @@
+﻿body 
+{
+    font-family: sans-serif;
+    background-image: url("background.jpg");
+}
+h1,h2 
+{
+    text-align: center;
+}
+a
+{
+    text-align:center;
+}
+a:hover
+{
+    font-size:xx-large;
+}
+table
+{
+    width: 25%;
+    text-align: center;
+}
+tr:nth-child(even)
+{
+    background-color: #FF9A8E;
+}
+tr:nth-child(odd) 
+{
+    background-color: #006571;
+}
+span
+{
+    color: red;
+    font-weight: bold;
+}
+#intro 
+{
+    text-align: center;
+}
+#lists 
+{
+
+}
+#quote
+{
+    font-family: 'Bradley Hand ITC';
+    font-size:xx-large;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #89A1D3;
+    color: #2C2C3E;
+}
+#assignments
+{
+}
